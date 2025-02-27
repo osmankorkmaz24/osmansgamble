@@ -1,0 +1,13 @@
+{
+  "name": "Osman's Gamble",
+  "symbol": "OsmanForex",
+  "description": "basically crypto currency for my forex gambling, this is my first coin also im not a great trader so its just for fun",
+  "image": "https://c.mql5.com/18/32/Candle_Size_Info_indicator_MetaTrader5.png",
+  "attributes": [
+    {
+      "trait_type": "Kategori",
+      "value": "Trading Coin"
+    }
+  ]
+
+}
