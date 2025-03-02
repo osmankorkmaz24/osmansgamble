@@ -1,0 +1,13 @@
+{
+  "name": "KingScar Coin",
+  "symbol": "KingScar",
+  "description": "Kingscar Coin (KSC) is a digital monument on the Solana blockchain, crafted as an SPL token and a proud memecoin dedicated to the legendary savanna lion, Kingscar Face. It honors the memory of this heroic lion who stood against the relentless assault of hundreds of jackals to protect his pride, ultimately sacrificing his life. With a strictly limited supply of 116,221 tokens, unmintable and unique, Kingscar Coin serves as both a community symbol and a playful memecoin. On June 11, 2025—the anniversary of Kingscar Face’s death—a strategic liquidity injection will dramatically boost its value, securing its place in the Solana ecosystem. Created by a developer with no profit motive, but a desire to see its usage soar, this token embodies courage, strength, and sacrifice. Owning Kingscar Coin means paying homage to a legend and keeping his spirit alive in the digital realm.",
+  "image": "https://c.mql5.com/18/32/Candle_Size_Info_indicator_MetaTrader5.png",
+  "attributes": [
+    {
+      "trait_type": "MemeCoin",
+      "value": "MemeCoin, priceless in our hearts"
+    }
+  ]
+
+}
