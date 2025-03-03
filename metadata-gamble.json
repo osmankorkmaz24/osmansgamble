@@ -1,12 +1,12 @@
 {
-  "name": "Osman's Gamble",
-  "symbol": "OsmanForex",
-  "description": "basically crypto currency for my forex gambling, this is my first coin also im not a great trader so its just for fun",
-  "image": "https://c.mql5.com/18/32/Candle_Size_Info_indicator_MetaTrader5.png",
+  "name": "Yogurtlu Makarna Coin",
+  "symbol": "Makarna",
+  "description": "Yogurtlu makarna sevenlerin para kazanmak icin aldigi coin."
+  "image": "https://cdn.ye-mek.net/App_UI/Img/out/650/2020/12/salcali-yogurtlu-makarna-resimli-yemek-tarifi(8).jpg",
   "attributes": [
     {
-      "trait_type": "Kategori",
-      "value": "Trading Coin"
+      "trait_type": "Makarna",
+      "value": "One plate of Pasta and Yogurt"
     }
   ]
 
